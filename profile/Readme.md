@@ -1,7 +1,5 @@
 ![catze labs](https://user-images.githubusercontent.com/65929678/224520122-bf8ec846-745e-4c94-9bfe-9efbaaa4c057.png)
 
-# Catze Labs
-
 Catze Labs was established by Blockchain & Web3 Enthusiasts.
 
 Catze Labs is a company that develops web3 projects as well as creating life-changing sustainable products available to all.
