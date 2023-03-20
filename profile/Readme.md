@@ -1,23 +1,21 @@
-![catze labs](https://user-images.githubusercontent.com/65929678/224520122-bf8ec846-745e-4c94-9bfe-9efbaaa4c057.png)
+![Catze Labs](https://user-images.githubusercontent.com/65929678/224520122-bf8ec846-745e-4c94-9bfe-9efbaaa4c057.png)
 
 ![](https://komarev.com/ghpvc/?username=catze-labs)
 
-Catze Labs was established by Blockchain & Web3 Enthusiasts.
+Founded by a team of passionate Blockchain and Web3 enthusiasts, Catze Labs is dedicated to developing innovative web3 projects and creating life-changing, sustainable products accessible to everyone.
 
-Catze Labs is a company that develops web3 projects as well as creating life-changing sustainable products available to all.
+We strive for continuous qualitative and quantitative growth, driven by our commitment to excellence.
 
-We are constantly aiming for further qualitative and quantitative growth.
+🌍 [Visit Our Website](https://catze.xyz/)
 
-🌍 [Our Website](https://catze.xyz/)
-
-## Products
+## Our Products
 
 - [Yooldo](https://yooldo.gg/)
 - [Trouble Punk](https://troublepunk.com/)
 - [CyberGalz](https://cybergalznft.com/)
 
-## Careers
+## Join Our Team
 
-Build with us! We are always on the lookout for new talents.
+Collaborate with us and shape the future! We are always seeking talented individuals to join our team.
 
-[Check out our open positions.](https://catzelabs.notion.site/Careers-99e88ef811b94fb9ba1392d2a26b0b0c)
+[Explore our current openings.](https://catzelabs.notion.site/Careers-99e88ef811b94fb9ba1392d2a26b0b0c)
